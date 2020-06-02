@@ -1,3 +1,5 @@
+//This is just an example, trying to tweak the code to fit this application.
+
 const resultEl = document.getElementById('result');
 const lengthEl = document.getElementById('length');
 const uppercaseEl = document.getElementById('uppercase');
